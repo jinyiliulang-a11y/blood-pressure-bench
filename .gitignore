@@ -1,0 +1,12 @@
+node_modules/
+*.mp4
+work/
+.sites-runtime/
+.openai/
+.codex/
+.agents/
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
